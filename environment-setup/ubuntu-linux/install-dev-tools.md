@@ -64,7 +64,7 @@ To see which versions of Ruby can be installed by ruby-build, run:
 rbenv install --list
 ```
 
-Scroll back through the output and look for versions that are purely numbers and dots, e.g., `2.6.1`. These are versions of the "standard" or "reference" Ruby implementation, known as MRI or CRuby, which is the Ruby interpreter we will be using. (You can read more about [other Ruby implementations](https://www.ruby-lang.org/en/about/) at ruby-lang.org.) For running production code, it is best to avoid the "pre", "dev", or "rc" versions, as they are still being actively developed and are not ready for widespread release.
+Scroll back through the output and look for versions that are purely numbers and dots, e.g., `2.6.1`. These are versions of the "standard" or "reference" Ruby implementation, known as MRI or CRuby, which is the Ruby interpreter we will be using. (You can read more about [other Ruby implementations](https://www.ruby-lang.org/en/about/) at ruby-lang.org.) Versions with a suffix such as "pre", "dev", or "rc" are not considered production-ready but are available if you would like to try out features available in future Ruby releases.
 
 To install one of the Ruby versions listed:  
 ```
