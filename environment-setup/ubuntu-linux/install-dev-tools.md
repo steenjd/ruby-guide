@@ -2,13 +2,11 @@
 
 ## Atom
 
-Atom is the text editor and IDE app we'll use for writing code. 
+Atom is the text editor and IDE app we'll use for writing code.
 
 Open the Ubuntu Software app and search for Atom. The app icon for Atom is round and green with an atomic symbol.
 
 Install Atom.
-
-Launch Atom. If its menu bar text (File, Edit, View, Selection, …), is invisible or barely visible, then you'll need to switch your Ubuntu UI theme to work around [this known text contrast bug](https://github.com/atom/atom/issues/18535), which will be fixed in Atom 1.35 or 1.36. Open the Settings app, go to the Universal Access category, and enable High Contrast.
 
 ## Prerequisite Ubuntu packages
 
