@@ -124,6 +124,7 @@ rbenv global 2.6.3
 ```
 
 To force a project to use a specific version of Ruby,
+which is a good practice to ensure consistency across runtime environments,
 create a plain-text file named `.ruby-version` in the project's root folder,
 and use the Ruby version as the sole content of the file, like this:  
 ```
