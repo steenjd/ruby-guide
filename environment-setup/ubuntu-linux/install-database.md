@@ -40,7 +40,7 @@ sudo mysql_secure_installation
 Disable `mysql` client history file to avoid capturing passwords,
 or remove "group" and "other" permissions from the file:  
 ```
-# First, change to your home directory, where your history file is.
+# First, change to your home directory, where your history file is:
 cd
 
 # This will remove (truncate) currently saved history:
